@@ -8,7 +8,7 @@ Simple starter package for Redux with made with create-react-app.
 git clone git@github.com:jeffreynerona/redux-simple-starter.git myapp
 ```
 ```
-cd my app
+cd myapp
 ```
 ```
 npm install
